@@ -9,6 +9,7 @@ bear_id	bear_name	age
 2	Frosty		7
 3	Iceberg		15
 4	Chilly		5
+
 Table name: tracking
 
 tracking_id	bear_id	distance_km	date
